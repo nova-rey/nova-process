@@ -135,7 +135,7 @@ But the current version focuses on creating a **stable core** first.
 
 ## 📄 License
 
-TBD — this repo contains templates and documents rather than executable code.
+MIT
 
 ---
 
