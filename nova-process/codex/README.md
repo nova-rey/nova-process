@@ -1,0 +1,1 @@
+note: The AGENTS.md at the "root" of the "copy-to-repo-root" folder is intended for use at repo root. thhe AGENTS.md found in copy-to-repo-root/docs is an ancilary AGENTS.md for governing documentation standards.

@@ -1,0 +1,14 @@
+# PROJECT_SNAPSHOT.yaml
+# Overwrite-allowed current state representation
+
+project:
+  name: "<project-name>"
+  version: "0.0.0"
+
+process:
+  nova_process_version: "0.x"
+  active_phase: null
+  active_checkpoint: null
+
+artifacts:
+  last_updated: null
